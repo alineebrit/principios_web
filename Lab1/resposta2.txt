@@ -1,0 +1,5 @@
+Aluna: Aline de Brito das Neves; 120210474
+
+2) Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.

@@ -1,0 +1,5 @@
+Aluna: Aline de Brito das Neves; 120210474
+
+4) Explique o papel do JavaScript no desenvolvimento web moderno.
+Por que ele é considerado uma linguagem essencial para a
+criação de sites interativos?
