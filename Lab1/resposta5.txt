@@ -4,3 +4,20 @@ Aluna: Aline de Brito das Neves; 120210474
 de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
+
+Começaria com uma reunião para alinharmos as expectativas e 
+dividir as responsabilidades, para saber o que cada um vai 
+fazer e como podemos colaborar de forma mais fluida. Após isso, 
+organizariamos as tarefas criando uma lista de tarefas divididas 
+por categorias (front-end, back-end, design), e definindo a 
+responsabilidades e os prazos claros para cada um. Para a escolha 
+das ferramentas do front-end, usaríamos HTML, CSS e JavaScript, 
+possivelmente com React. No back-end, escolhemos Node.js, Python 
+ou PHP, dependendo da necessidade. Ferramentas como Figma seriam 
+usadas para o design. Já o versionamento ussariamos o Git, criando 
+ramificações para cada tarefa e seguindo o fluxo "Git Flow". 
+Fazer revisões de código antes de mesclar alterações na filial principal.
+Nas boas práticas de desenvolvimento escrevieriamos um código limpo e
+documentado. E nos testes realizariamos testes contínuos (unitários, 
+integração, usabilidade), garantir acessibilidade, além de revisar o 
+código para evitar bugs e melhorar a experiência do usuário.

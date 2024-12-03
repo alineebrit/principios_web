@@ -3,3 +3,11 @@ Aluna: Aline de Brito das Neves; 120210474
 2) Cite três ferramentas ou tecnologias amplamente usadas no
 desenvolvimento web e explique como elas ajudam no processo
 de criação de aplicações web.
+
+HTML: linguagem que organiza o conteúdo em elementos, como: Títulos, parágrafos e links.
+
+CSS3 (2001): introduziu recursos como design responsivo e animações, facilitando a criação
+de layouts modernos.
+
+Javascript: linguagem mais usada para adicionar interatividade em páginas web, muito 
+utilizada no fontend, responde à ação dos usuários, e interpretada no navegador.

@@ -6,3 +6,13 @@ Web no contexto da evolução da internet. Como essas tecnologias
 mudaram a forma como a informação é compartilhada
 globalmente?
 
+O HTML (Hypertext Markup Language) surgiu como uma linguagem de 
+marcação que permitia estruturar e formatar documentos de maneira 
+fácil, tornando-os acessíveis e compreensíveis por qualquer pessoa. 
+Com o HTML, foi possível criar páginas web com títulos, paragrafos e  
+links e outros recursos interativos. Isso revolucionou a forma como 
+a informação era disponibilizada, pois qualquer pessoa com um navegador 
+poderia acessar essas páginas e navegar entre elas por meio de links.
+Já o World Wide Web (www) surgiu da necessidade de diferentes pesquisadores
+ que comportalhassem informações de uma forma eficiente, um sistema baseado
+na interligação de documentos através de hipertexto.
